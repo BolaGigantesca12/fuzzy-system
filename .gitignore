@@ -1,0 +1,10 @@
+node_modules/
+package-lock.json
+pnpm-lock.yaml
+*.lock
+*.lnk
+server/control/data/
+bot/data/
+bot/.env
+*.db*
+server/control/.pepper
